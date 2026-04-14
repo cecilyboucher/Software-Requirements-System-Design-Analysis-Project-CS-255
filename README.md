@@ -13,7 +13,7 @@ The goal of this project is to demonstrate understanding of the early stages of 
 - System design documentation
 - Use case development
 - User stories and system modeling
-- UML diagrams (if applicable)
+- UML diagrams
 
 ---
 
@@ -42,3 +42,9 @@ Strong system design is critical in real-world development teams. This project h
 - Convert design into implemented software system
 - Expand UML modeling diagrams
 - Include stakeholder feedback simulation
+
+---
+
+## 👩‍💻 Author
+Cecily Boucher  
+GitHub: https://github.com/cecilyboucher
