@@ -45,6 +45,11 @@ Strong system design is critical in real-world development teams. This project h
 
 ---
 
+## 📸 Screenshots
+<img width="1366" height="720" alt="image" src="https://github.com/cecilyboucher/EventFlow-Mobile-App/blob/main/Diagrams.png" />
+
+---
+
 ## 👩‍💻 Author
 Cecily Boucher  
 GitHub: https://github.com/cecilyboucher
