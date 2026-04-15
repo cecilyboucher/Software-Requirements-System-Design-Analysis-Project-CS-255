@@ -46,7 +46,7 @@ Strong system design is critical in real-world development teams. This project h
 ---
 
 ## 📸 Screenshots
-<img width="720" height="720" alt="image" src="https://github.com/cecilyboucher/Software-Requirements-System-Design-Analysis-Project-CS-255/blob/main/Diagrams.png"/>
+<img width="100%" alt="image" src="https://github.com/cecilyboucher/Software-Requirements-System-Design-Analysis-Project-CS-255/blob/main/Diagrams.png"/>
 
 ---
 
